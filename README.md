@@ -169,7 +169,7 @@ You are free to use this template for personal and commercial projects. If you u
 
 1. **Attribution Required**: Include a credit to the original author (Manish Raj) in your project
 2. **Recommended Attribution**: Add a link back to this repository in your footer or about page
-3. **Example Attribution**: "Website template by [Manish Raj](https://github.com/manishraj27)"
+3. **Example Attribution**: "Website template by [Manish Raj](https://github.com/ALPHA0978)"
 
 ### What You Can Do
 
@@ -210,8 +210,8 @@ For questions or support, please open an issue on GitHub.
 ## Author
 
 **Manish Raj**
-- GitHub: [@manishraj27](https://github.com/manishraj27)
-- LinkedIn: [Manish Raj](https://linkedin.com/in/manishraj27)
+- GitHub: [@manishraj27](https://github.com/ALPHA0978)
+- LinkedIn: [Manish Raj](https://www.linkedin.com/in/manish-raj-2x145/)
 
 ## Acknowledgments
 
