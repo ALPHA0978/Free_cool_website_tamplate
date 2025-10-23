@@ -17,7 +17,7 @@
  */
 
 import React from "react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import Header from "./components/sections/Header";
 import Footer from "./components/sections/Footer";
 
@@ -42,7 +42,7 @@ import Contact from "./pages/Contact";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
 import TermsOfService from "./pages/TermsOfService";
 import CookiePolicy from "./pages/CookiePolicy";
-import Demo from "./pages/Demo";
+
 
 // Home page component
 function HomePage() {
@@ -78,7 +78,6 @@ function App() {
             <Route path="/privacy" element={<PrivacyPolicy />} />
             <Route path="/terms" element={<TermsOfService />} />
             <Route path="/cookies" element={<CookiePolicy />} />
-            <Route path="/demo" element={<Demo />} />
           </Routes>
         </div>
         <Footer />
