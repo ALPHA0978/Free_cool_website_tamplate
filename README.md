@@ -219,4 +219,4 @@ For questions or support, please open an issue on GitHub.
 - Icons provided by [Lucide](https://lucide.dev/)
 - Stock images from [Unsplash](https://unsplash.com/)
 - Color palette inspired by modern design systems
-- Animation patterns from contemporary web design trends
+- Animation patterns from contemporary web design trends.
