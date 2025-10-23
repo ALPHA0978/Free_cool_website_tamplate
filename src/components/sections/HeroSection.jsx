@@ -20,6 +20,8 @@
 import { ArrowRight } from "lucide-react";
 import { Button } from "../ui/button";
 import AnimatedGroup from "../common/AnimatedGroup";
+import ShaderBackground from "../ui/shader-background";
+
 
 const transitionVariants = {
   item: {
@@ -43,8 +45,10 @@ const transitionVariants = {
 
 const HeroSection = () => {
   return (
-    <section className="relative pt-24 md:pt-36">
-      <div className="mx-auto max-w-7xl px-6">
+    <section className="relative pt-24 md:pt-36 overflow-hidden bg-white dark:bg-background">
+      <ShaderBackground />
+
+      <div className="relative mx-auto max-w-7xl px-6 ">
         <div className="text-center sm:mx-auto lg:mr-auto lg:mt-0">
           <AnimatedGroup variants={transitionVariants}>
             <a
@@ -116,7 +120,7 @@ const HeroSection = () => {
           ...transitionVariants,
         }}
       >
-        <div className="relative -mr-56 mt-8 overflow-hidden px-2 sm:mr-0 sm:mt-12 md:mt-20">
+        <div className="relative -mr-56 mt-8 overflow-hidden px-2 sm:mr-0 sm:mt-12 md:mt-20 z-30">
           <div
             aria-hidden
             className="bg-gradient-to-b to-background absolute inset-0 z-10 from-transparent from-35%"
