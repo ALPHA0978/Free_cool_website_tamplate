@@ -15,16 +15,14 @@ Experience the template in action with all features including:
 ## Screenshots
 
 ### Hero Section with Animated Background
-![Hero Section](https://images.unsplash.com/photo-1551434678-e076c223a692?q=80&w=1200&auto=format&fit=crop)
-
-### Mobile Development Services
-![Mobile Services](https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?q=80&w=1200&auto=format&fit=crop)
-
-### Features Showcase
-![Features](https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1200&auto=format&fit=crop)
+![Hero Section](https://alphaxcoder.sirv.com/project_image/Screenshot%202025-10-24%20003343.png)
+![Hero Section2](https://alphaxcoder.sirv.com/project_image/Screenshot%202025-10-24%20003408.png)
 
 ### Responsive Design
-![Responsive](https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80&w=1200&auto=format&fit=crop)
+![Responsive](https://alphaxcoder.sirv.com/project_image/Screenshot%202025-10-24%20003544.png)
+
+### Features Showcase
+![Features](https://alphaxcoder.sirv.com/project_image/Screenshot%202025-10-24%20004823.png)
 
 ## Key Features
 
