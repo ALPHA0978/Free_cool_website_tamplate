@@ -6,11 +6,13 @@ import path from 'path'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(),
-    tailwindcss()
+    tailwindcss(),
+   
   ],
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './src'),
     },
   },
+  base:"/Free_cool_website_tamplate",
 })
