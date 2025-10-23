@@ -2,6 +2,30 @@
 
 A professional, open-source website template built with React 19, Vite, Tailwind CSS, and Framer Motion. Designed for software development agencies, SaaS products, portfolios, and business websites.
 
+##  Live Demo
+
+**[View Live Demo](https://ALPHA0978.github.io/Free_cool_website_tamplate)**
+
+Experience the template in action with all features including:
+- Animated WebGL shader backgrounds
+- Dark/Light mode switching
+- Responsive mobile design
+- Interactive components and animations
+
+## Screenshots
+
+### Hero Section with Animated Background
+![Hero Section](https://images.unsplash.com/photo-1551434678-e076c223a692?q=80&w=1200&auto=format&fit=crop)
+
+### Mobile Development Services
+![Mobile Services](https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?q=80&w=1200&auto=format&fit=crop)
+
+### Features Showcase
+![Features](https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1200&auto=format&fit=crop)
+
+### Responsive Design
+![Responsive](https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80&w=1200&auto=format&fit=crop)
+
 ## Key Features
 
 - **Lightning Fast Development** - Built with Vite for optimal development experience
@@ -21,6 +45,7 @@ A professional, open-source website template built with React 19, Vite, Tailwind
 - **Framer Motion** - Production-ready motion library for React
 - **React Router** - Declarative routing for React applications
 - **Lucide React** - Beautiful, customizable SVG icons
+- **WebGL Shaders** - Custom animated backgrounds with Three.js
 - **ESLint** - Code linting and formatting
 
 ## Getting Started
