@@ -211,7 +211,7 @@ For questions or support, please open an issue on GitHub.
 
 **Manish Raj**
 - GitHub: [@manishraj27](https://github.com/manishraj27)
-- LinkedIn: [Manish Raj](https://linkedin.com/in/manishraj27)
+- LinkedIn: [Manish Raj]([https://linkedin.com/in/manishraj27](https://www.linkedin.com/in/manish-raj-2x145/))
 
 ## Acknowledgments
 
