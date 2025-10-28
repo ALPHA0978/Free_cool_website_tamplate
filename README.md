@@ -18,10 +18,11 @@ Experience the template in action with all features including:
 
 ### Hero Section with Animated Background
 ![Hero Section](https://alphaxcoder.sirv.com/project_image/Screenshot%202025-10-24%20003343.png)
-![Hero Section2](https://alphaxcoder.sirv.com/project_image/Screenshot%202025-10-24%20003408.png)
 
 ### Responsive Design
 ![Responsive](https://alphaxcoder.sirv.com/project_image/Screenshot%202025-10-24%20003544.png)
+
+![Hero Section2](https://alphaxcoder.sirv.com/project_image/Screenshot%202025-10-24%20003408.png)
 
 ### Features Showcase
 ![Features](https://alphaxcoder.sirv.com/project_image/Screenshot%202025-10-24%20004823.png)
