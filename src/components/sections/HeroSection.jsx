@@ -56,7 +56,7 @@ const HeroSection = () => {
               className="hover:bg-background dark:hover:border-t-border bg-muted group mx-auto flex w-fit items-center gap-4 rounded-full border p-1 pl-4 shadow-sm transition-all duration-300 dark:border-t-white/5"
             >
               <span className="text-foreground text-sm">Trusted by 500+ Companies</span>
-              <span className="dark:border-background block h-4 w-0.5 border-l bg-white dark:bg-zinc-700"></span>
+              <span className="block h-4 w-0.5 border-l border-border bg-border"></span>
               <div className="bg-background group-hover:bg-muted size-6 overflow-hidden rounded-full duration-500">
                 <div className="flex w-12 -translate-x-1/2 duration-500 ease-in-out group-hover:translate-x-0">
                   <span className="flex size-6">
